@@ -1,4 +1,7 @@
-MIT License
+All SQLite files have their own embedded licenses.  All other files in this
+repo are licensed under the following license:
+
+---
 
 Copyright (c) 2016 Chris White (cxw42 on github/bitbucket; www.devwrench.com)
 
